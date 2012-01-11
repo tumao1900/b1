@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tumao1900.github.com/b1/atom.xml" rel="self"/>
   <link href="http://tumao1900.github.com/b1/"/>
-  <updated>2012-01-11T15:22:22+08:00</updated>
+  <updated>2012-01-11T16:28:50+08:00</updated>
   <id>http://tumao1900.github.com/b1/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,29 @@
 
   
   <entry>
+    <title type="html"><![CDATA[fleamarket]]></title>
+    <link href="http://tumao1900.github.com/b1/blog/2012/01/11/fleamarket/"/>
+    <updated>2012-01-11T16:27:00+08:00</updated>
+    <id>http://tumao1900.github.com/b1/blog/2012/01/11/fleamarket</id>
+    <content type="html"><![CDATA[<p>首次登陆github</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test2]]></title>
+    <link href="http://tumao1900.github.com/b1/blog/2012/01/11/test2/"/>
+    <updated>2012-01-11T15:54:00+08:00</updated>
+    <id>http://tumao1900.github.com/b1/blog/2012/01/11/test2</id>
+    <content type="html"><![CDATA[<p>haha</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[test]]></title>
     <link href="http://tumao1900.github.com/b1/blog/2012/01/11/test/"/>
     <updated>2012-01-11T14:47:00+08:00</updated>
     <id>http://tumao1900.github.com/b1/blog/2012/01/11/test</id>
-    <content type="html"><![CDATA[<p>hello~ i am a test 我是一个中文测试</p>
+    <content type="html"><![CDATA[<p>hello~ i am a test 我是一个中文测试~~我是张。。。</p>
 ]]></content>
   </entry>
   
